@@ -1,9 +1,9 @@
 /*
 *	 Black Ops 2 - GSC Studio by iMCSx
 *
-*	 Creator : vkarl
-*	 Project : repair_infectedMW3
-*    Mode : Multiplayer
+*	 Creator : Chenterito
+*	 Project : randommapsT6
+*    	Mode : Multiplayer
 *	 Date : 2021/05/23 - 10:10:04	
 *
 */	
